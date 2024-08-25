@@ -1,0 +1,2 @@
+# compara_activos
+ 
